@@ -24,6 +24,11 @@ https://colab.research.google.com/drive/1wJhtSHS_dXV0XWEhW20MUtbcHlUU5tFS#scroll
 
 
 
+DATA-SCIENCE-BOWL-2019
+
+https://www.kaggle.com/c/data-science-bowl-2018
+
+https://github.com/ashish42/DATA-SCIENCE-BOWL-2019
 
 人工智慧機器人新聞及技術 20190321	
 
