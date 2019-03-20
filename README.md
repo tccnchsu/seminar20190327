@@ -25,6 +25,13 @@ https://www.ustream.tv/gpu-technology-conference
 
 https://colab.research.google.com/drive/1wJhtSHS_dXV0XWEhW20MUtbcHlUU5tFS#scrollTo=PyCEJHvxJ_Bz
 
+書
+https://www.oreilly.co.jp/books/9784873117584/
+https://github.com/oreilly-japan/deep-learning-from-scratch
+
+https://github.com/Hezi-Resheff/Oreilly-Learning-TensorFlow
+http://shop.oreilly.com/product/0636920063698.do
+
 
 
 DATA-SCIENCE-BOWL-2019
