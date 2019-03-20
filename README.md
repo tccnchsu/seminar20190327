@@ -12,3 +12,10 @@ https://tw.openrobot.club/product/index?sn=11241
 http://scieorgtw.blogspot.com/p/2018.html
 
 
+GPU Technology Conference 2019 Keynote
+Watch the live webcast of the GPU Technology Conference 2019 Keynote with our CEO Jensen Huang.
+
+https://www.ustream.tv/gpu-technology-conference
+
+
+
